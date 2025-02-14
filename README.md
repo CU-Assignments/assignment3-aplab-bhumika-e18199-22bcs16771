@@ -12,4 +12,16 @@
 61.[ rotate a list]( https://leetcode.com/problems/rotate-list/description/)<br>
 148.[ Sort List]( https://leetcode.com/problems/sort-list/description/)<br>
 142.[ Detect a cycle in a linked list 2]( https://leetcode.com/problems/linked-list-cycle-ii/description/)<br>
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/c2c8ca64-ccef-4bdd-8109-a32c96a5ca6a" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/4b6d750c-0ecf-4c18-bc35-de92f469ddb8" />
 
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/db2e0544-8f15-4603-83ae-05ca5bf20fa6" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/6529ee36-ca24-4afe-8ded-9edf11e68d83" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/b39d3fcf-5215-4679-82f3-498699c91fcd" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/0a57396a-3de2-429c-98e1-ab1817563128" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/c48d9f66-10d8-464c-bf5d-73130c3b86dc" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/8d7dbca6-38f9-4b47-a151-ff2eaf57426a" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/5d9209d7-a8ef-486b-b6b2-212277ecaffe" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/6b44ee11-e2e3-44b8-b24e-aa7a64d6b737" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/dfd5aecd-a3bf-4845-9309-93ffdadaa2f2" />
